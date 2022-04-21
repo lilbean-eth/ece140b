@@ -16,3 +16,7 @@ body {
     border: 20px solid #bbb;
     padding: 1rem;
   }
+  .grandchild{
+    
+    text-align: center;
+  }
